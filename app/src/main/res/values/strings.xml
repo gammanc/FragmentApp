@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+
+    <string-array name="stones">
+        <item>Gema del Espacio</item>
+        <item>Gema de la Mente</item>
+        <item>Gema de la Realidad</item>
+        <item>Gema del Poder</item>
+        <item>Gema del Tiempo</item>
+        <item>Gema del Alma</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>Tesseracto</item>
+        <item>Visión</item>
+        <item>Aether</item>
+        <item>Orbe</item>
+        <item>Ojo de Agamotto</item>
+        <item>Desconocido</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Permite al usuario existir en cualquier lugar (o en todos los lugares), mover cualquier objeto a cualquier parte del universo, saltar por el espacio o rodearlo</item>
+        <item>El poseedor de esta gema ve sus poderes mentales incrementados y puede acceder a los sueños de cualquier otro ser</item>
+        <item>Quizás la gema más poderosa y la más difícil de utilizar. Concede al portador sus deseos, aunque éstos sean una contradicción de las leyes físicas</item>
+        <item>Contiene una comunicación con todo el poder, la fuerza y la energía que alguna vez ha existido o existirá. Aumenta los poderes de las otras Gemas del Infinito</item>
+        <item>Esta gema le da al portador un control total sobre el tiempo, incluyendo el viaje temporal. Desde el pasado primordial al distante futuro, cualquier periodo es accesible o visible con este poder</item>
+        <item>Controvertidamente la más peligrosa, esta gema es sentiente y se alimenta de almas. Permite al usuario robar, manipular o alterar las almas, vivas o muertas</item>
+    </string-array>
+
+    <integer-array name="cool_images">
+        <item>@drawable/stone1</item>
+        <item>@drawable/stone2</item>
+        <item>@drawable/stone3</item>
+        <item>@drawable/stone4</item>
+        <item>@drawable/stone5</item>
+        <item>@drawable/stone6</item>
+    </integer-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_location">Localización :</string>
+
+</resources>
